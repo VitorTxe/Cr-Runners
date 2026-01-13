@@ -15,7 +15,7 @@ export function Hero() {
           transition={{ duration: 0.6 }}
         >
           <span className="inline-block px-4 py-1.5 rounded-full border border-yellow-400/30 bg-yellow-400/5 text-yellow-400 text-xs font-bold uppercase tracking-[0.2em] mb-6 shadow-[0_0_10px_rgba(250,204,21,0.1)]">
-            Temporada 2025 • Aberta
+            Temporada 2026 • Aberta
           </span>
         </motion.div>
 
